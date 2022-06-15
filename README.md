@@ -3,6 +3,7 @@
 - This landing page was a project for the Odin Project (open-source full stack development course)
 - The layout was created using css (flexbox) only
 - Only an image reference and style specification was provided. The layout had to be recreated without help
+- Original project was finished in a private repo
 
 ## Image credit
  - cat1.jpg: Inge Wallumrød
