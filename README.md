@@ -4,6 +4,7 @@
 - The layout was created using css (flexbox) only
 - Only an image reference and style specification was provided. The layout had to be recreated without help
 - Original project was finished in a private repo
+- Project has not been tested on mobile
 
 ## Image credit
  - cat1.jpg: Inge Wallumrød
